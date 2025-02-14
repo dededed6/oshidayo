@@ -1,0 +1,6 @@
+yt-dlp
+pydub
+deepl
+ffmpeg
+moviepy
+stable-tspip
