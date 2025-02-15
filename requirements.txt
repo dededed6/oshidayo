@@ -2,5 +2,5 @@ yt-dlp
 pydub
 deepl
 ffmpeg
-moviepy
-stable-tspip
+moviepy==2.0.0.dev2
+stable-ts

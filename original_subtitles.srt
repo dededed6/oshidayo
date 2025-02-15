@@ -1,0 +1,287 @@
+1
+00:00:07,300 --> 00:00:09,996
+Time to talk about something big.
+
+2
+00:00:11,065 --> 00:00:12,000
+Introducing Perks.
+
+3
+00:00:12,760 --> 00:00:16,160
+This is the most significant innovation to core gameplay
+
+4
+00:00:16,640 --> 00:00:18,840
+since Overwatch launched in 2016.
+
+5
+00:00:19,900 --> 00:00:21,440
+This is more than just an update.
+
+6
+00:00:22,320 --> 00:00:25,226
+It's a radical shift in how you experience gameplay.
+
+7
+00:00:26,220 --> 00:00:29,875
+Perks are upgrades to your hero's kit that unlock during the game.
+
+8
+00:00:30,060 --> 00:00:32,340
+They provide an additional strategic layer,
+
+9
+00:00:32,700 --> 00:00:35,715
+allowing you to alter your playstyle and adapt to situations.
+
+10
+00:00:36,760 --> 00:00:37,482
+Throughout the match,
+
+11
+00:00:37,740 --> 00:00:39,548
+you'll level up your hero two times,
+
+12
+00:00:40,080 --> 00:00:43,400
+unlocking one minor perk and one major perk.
+
+13
+00:00:44,120 --> 00:00:45,522
+The first time you level up,
+
+14
+00:00:45,740 --> 00:00:48,260
+you'll get a choice between two minor perks.
+
+15
+00:00:49,000 --> 00:00:51,140
+We positioned minor perks as lighter upgrades.
+
+16
+00:00:52,020 --> 00:00:53,680
+They're like a little boost to warm you up,
+
+17
+00:00:54,060 --> 00:00:56,698
+from cooldown reductions to small passives
+
+18
+00:00:56,820 --> 00:00:58,939
+that keep things balanced but exciting.
+
+19
+00:00:59,840 --> 00:01:01,515
+Once you hit your major perk level,
+
+20
+00:01:02,000 --> 00:01:04,180
+you'll get to choose between two powerful upgrades.
+
+21
+00:01:05,500 --> 00:01:08,980
+Then you fine-tune your playstyle for the rest of the match.
+
+22
+00:01:09,820 --> 00:01:13,820
+Major perks are gameplay-shifting additions to your hero's kit,
+
+23
+00:01:14,380 --> 00:01:18,468
+changing your core loop and redefining what your hero is capable of.
+
+24
+00:01:19,300 --> 00:01:21,860
+Let's look at an example now with Orisa.
+
+25
+00:01:23,040 --> 00:01:25,100
+When you level up Orisa to level two,
+
+26
+00:01:25,565 --> 00:01:29,200
+your minor perk choice will be between heat reduction on your primary
+
+27
+00:01:29,200 --> 00:01:33,193
+fire or the ability to briefly tank burst damage with Fortify.
+
+28
+00:01:33,800 --> 00:01:35,520
+Are you facing down a Junkrat and
+
+29
+00:01:35,520 --> 00:01:37,400
+want to be able to survive his tire?
+
+30
+00:01:37,900 --> 00:01:40,400
+The upgrade to Fortify might be a great choice.
+
+31
+00:01:41,100 --> 00:01:43,180
+The fun really gets going when you
+
+32
+00:01:43,180 --> 00:01:45,700
+get to your major perk at level three,
+
+33
+00:01:45,760 --> 00:01:45,860
+though.
+
+34
+00:01:46,390 --> 00:01:47,988
+Here, Orisa gets the choice between
+
+35
+00:01:48,580 --> 00:01:51,420
+a higher impact energy javelin or swapping
+
+36
+00:01:51,420 --> 00:01:54,360
+out her javelin spin for a protective barrier.
+
+37
+00:01:55,240 --> 00:01:56,960
+Here's another example of what you can
+
+38
+00:01:56,960 --> 00:01:59,464
+expect with major perks with Torbjorn.
+
+39
+00:01:59,960 --> 00:02:01,560
+For Torb's major perk options,
+
+40
+00:02:01,760 --> 00:02:04,820
+you get to choose between two wild upgrades for your turret.
+
+41
+00:02:05,380 --> 00:02:07,800
+The first perk option is allowing you to upgrade
+
+42
+00:02:07,800 --> 00:02:11,306
+your turret to level three when activating Overload,
+
+43
+00:02:11,692 --> 00:02:13,640
+drastically shifting your turret's
+
+44
+00:02:13,760 --> 00:02:15,392
+threat level as it rips through enemies.
+
+45
+00:02:15,980 --> 00:02:18,500
+The second perk option is if you're feeling
+
+46
+00:02:18,580 --> 00:02:18,920
+a little cheeky,
+
+47
+00:02:19,940 --> 00:02:22,200
+upgrading your turret to now stick on walls.
+
+48
+00:02:22,980 --> 00:02:24,254
+With this added flexibility,
+
+49
+00:02:24,640 --> 00:02:26,860
+Torbjorn can take different angles and even
+
+50
+00:02:26,860 --> 00:02:29,543
+surprise opponents with sneaky turret placement.
+
+51
+00:02:29,880 --> 00:02:29,992
+Finally,
+
+52
+00:02:30,940 --> 00:02:34,348
+let's round it out with Ana. Ana's first major perk
+
+53
+00:02:34,500 --> 00:02:36,360
+choice upgrades her sharpshooting capabilities,
+
+54
+00:02:37,080 --> 00:02:38,315
+allowing her to headshot enemies.
+
+55
+00:02:38,820 --> 00:02:39,508
+Be careful, Widowmaker.
+
+56
+00:02:40,190 --> 00:02:42,092
+You might lose this sniper duel.
+
+57
+00:02:43,051 --> 00:02:43,160
+Then,
+
+58
+00:02:43,600 --> 00:02:46,376
+if you're playing Ana and having a hard time getting Dovon,
+
+59
+00:02:46,825 --> 00:02:48,319
+you might want Ana's second
+
+60
+00:02:48,660 --> 00:02:49,212
+major perk option.
+
+61
+00:02:50,100 --> 00:02:53,615
+Give yourself nano boost when it's activated on an ally.
+
+62
+00:02:54,160 --> 00:02:56,160
+Now that's a way to turn a fight.
+
+63
+00:02:57,160 --> 00:02:57,840
+When designing perks,
+
+64
+00:02:58,220 --> 00:03:01,428
+we wanted to expand and elevate what your heroes are capable of.
+
+65
+00:03:02,195 --> 00:03:05,480
+We are looking for a system that we can layer on top of your
+
+66
+00:03:05,580 --> 00:03:09,480
+normal Overwatch gameplay and offer choice from match to match.
+
+67
+00:03:10,120 --> 00:03:14,060
+We plan on adjusting perks on a regular cadence with bigger
+
+68
+00:03:14,165 --> 00:03:17,160
+system refreshes happening in the middle of the year.
+
+69
+00:03:18,640 --> 00:03:21,845
+The choice you make with perks will impact the battlefield,
+
+70
+00:03:22,660 --> 00:03:26,580
+offering new opportunities to outplay enemies and support your team.
+
+71
+00:03:27,420 --> 00:03:29,760
+You'll get to experience the next era
+
+72
+00:03:29,760 --> 00:03:32,680
+of Overwatch 2 when Season 15 launches.
